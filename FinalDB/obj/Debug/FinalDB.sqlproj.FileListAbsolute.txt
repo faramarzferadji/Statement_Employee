@@ -1,0 +1,9 @@
+C:\Users\ferad\source\repos\Employee_Statment\FinalDB\bin\Debug\FinalDB.dacpac
+C:\Users\ferad\source\repos\Employee_Statment\FinalDB\bin\Debug\FinalDB.dll
+C:\Users\ferad\source\repos\Employee_Statment\FinalDB\bin\Debug\FinalDB.pdb
+C:\Users\ferad\source\repos\Employee_Statment\FinalDB\obj\Debug\Model.xml
+C:\Users\ferad\source\repos\Employee_Statment\FinalDB\obj\Debug\refactor.xml
+C:\Users\ferad\source\repos\Employee_Statment\FinalDB\obj\Debug\postdeploy.sql
+C:\Users\ferad\source\repos\Employee_Statment\FinalDB\obj\Debug\predeploy.sql
+C:\Users\ferad\source\repos\Employee_Statment\FinalDB\obj\Debug\FinalDB.dll
+C:\Users\ferad\source\repos\Employee_Statment\FinalDB\obj\Debug\FinalDB.pdb
